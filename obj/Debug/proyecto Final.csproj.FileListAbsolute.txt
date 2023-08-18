@@ -1,0 +1,83 @@
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto Final.csproj.AssemblyReference.cache
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto Final.csproj.SuggestedBindingRedirects.cache
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto_Final.Form1.resources
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto_Final.Form2.resources
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto_Final.Properties.Resources.resources
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto Final.csproj.GenerateResource.cache
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto Final.csproj.CoreCompileInputs.cache
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\proyecto Final.exe.config
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\proyecto Final.exe
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\proyecto Final.pdb
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Azure.Core.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Azure.Identity.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Identity.Client.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Buffers.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Data.SqlClient.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Memory.Data.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Memory.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Numerics.Vectors.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Security.AccessControl.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Security.Permissions.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Security.Principal.Windows.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Text.Encodings.Web.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Text.Json.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.ValueTuple.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Azure.Core.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Azure.Identity.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Identity.Client.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Buffers.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Data.SqlClient.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Memory.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Memory.Data.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Numerics.Vectors.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Security.AccessControl.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Security.Permissions.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Security.Principal.Windows.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Text.Encodings.Web.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Text.Json.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\System.ValueTuple.xml
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto Final.csproj.CopyComplete
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto Final.exe
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto Final.pdb
+D:\tarea de analisis y diseño\proyecto Final\obj\Debug\proyecto_Final.Form3.resources
